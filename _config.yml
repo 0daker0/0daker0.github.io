@@ -1,6 +1,6 @@
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
-description: A blog about lorem ipsum dolor sit amet
+title: 一个法律实践者，理性看待问题
+description: 法律
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.daker.dev" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
