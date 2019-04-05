@@ -4,7 +4,7 @@ title: "经济法"
 date: 2019-12-28 22:43:23
 image: '/assets/img/linter/errors-list.png'
 description: '经济法是对社会主义商品经济关系进行整体、系统、全面、综合调整的一个法律部门。在现阶段，它主要调整社会生产和再生产过程中，以各类组织为基本主体所参加的经济管理关系和一定范围的经营协调关系。'
-main-class: 'js'
+main-class: '中国'
 color: '#D6BA32'
 tags:
 - 中国
