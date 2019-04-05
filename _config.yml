@@ -2,16 +2,16 @@
 title: Willian Justen - Desenvolvedor Front End
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://www.daker.dev" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: 0daker0
+user_description: 0daker0
+email: x010@foxmail.com
+twitter_username: 0daker0
+github_username:  0daker0
+gplus_username:  0daker0
+disqus_username: 0daker0
 
 # Build settings
 markdown: kramdown
