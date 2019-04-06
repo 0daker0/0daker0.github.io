@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05db4eab-2b95-4091-afae-e0c339f59653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-22-AdvertisingLaw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-12-21-CompanyLaw.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +26,7 @@
           <entry key="html" value="7" />
           <entry key="js" value="1" />
           <entry key="json" value="1" />
-          <entry key="md" value="15" />
+          <entry key="md" value="16" />
           <entry key="styl" value="1" />
           <entry key="xml" value="1" />
           <entry key="yml" value="2" />
@@ -38,7 +38,7 @@
           <entry key="HTML" value="7" />
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="1" />
-          <entry key="Markdown" value="15" />
+          <entry key="Markdown" value="16" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Stylus" value="1" />
           <entry key="XML" value="1" />
@@ -49,7 +49,7 @@
         <counts>
           <entry key="gitignore" value="6" />
           <entry key="html" value="55" />
-          <entry key="md" value="4376" />
+          <entry key="md" value="4821" />
           <entry key="styl" value="8" />
           <entry key="yml" value="83" />
         </counts>
@@ -57,7 +57,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="55" />
-          <entry key="Markdown" value="4376" />
+          <entry key="Markdown" value="4821" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Stylus" value="8" />
           <entry key="YAML" value="83" />
@@ -72,7 +72,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="552">
-                <caret line="23" column="42" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="42" />
+                <caret line="23" column="55" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="55" />
               </first_editor>
               <second_editor />
             </state>
@@ -80,6 +80,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-12-21-CompanyLaw.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="822">
+                <caret line="406" column="18" selection-start-line="406" selection-start-column="18" selection-end-line="406" selection-end-column="18" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-22-AdvertisingLaw.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -131,6 +143,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-12-24-consumerprotectionlaw.md" />
         <option value="$PROJECT_DIR$/_posts/2019-12-23-ProductQualityLaw.md" />
         <option value="$PROJECT_DIR$/_posts/2019-12-22-AdvertisingLaw.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-12-21-CompanyLaw.md" />
       </list>
     </option>
   </component>
@@ -180,7 +193,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554525151269" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554527043186" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -212,12 +225,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554473698191</updated>
-      <workItem from="1554473699550" duration="19121000" />
+      <workItem from="1554473699550" duration="21005000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19121000" />
+    <option name="totallyTimeSpent" value="21005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -426,21 +439,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-12-28-economiclaw.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="552">
-            <caret line="23" column="42" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="42" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-12-22-AdvertisingLaw.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="726">
             <caret line="185" column="10" selection-start-line="185" selection-start-column="10" selection-end-line="185" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-12-28-economiclaw.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="552">
+            <caret line="23" column="55" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="55" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-12-21-CompanyLaw.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="822">
+            <caret line="406" column="18" selection-start-line="406" selection-start-column="18" selection-end-line="406" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
