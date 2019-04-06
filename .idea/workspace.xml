@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05db4eab-2b95-4091-afae-e0c339f59653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-16-NationalDefenseLaw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-12-15-LawOnThePrevention.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +28,7 @@
           <entry key="html" value="7" />
           <entry key="js" value="1" />
           <entry key="json" value="1" />
-          <entry key="md" value="22" />
+          <entry key="md" value="23" />
           <entry key="styl" value="1" />
           <entry key="xml" value="1" />
           <entry key="yml" value="2" />
@@ -40,7 +40,7 @@
           <entry key="HTML" value="7" />
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="1" />
-          <entry key="Markdown" value="22" />
+          <entry key="Markdown" value="23" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Stylus" value="1" />
           <entry key="XML" value="1" />
@@ -51,7 +51,7 @@
         <counts>
           <entry key="gitignore" value="6" />
           <entry key="html" value="55" />
-          <entry key="md" value="6026" />
+          <entry key="md" value="6036" />
           <entry key="styl" value="8" />
           <entry key="yml" value="83" />
         </counts>
@@ -59,7 +59,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="55" />
-          <entry key="Markdown" value="6026" />
+          <entry key="Markdown" value="6036" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Stylus" value="8" />
           <entry key="YAML" value="83" />
@@ -141,12 +141,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-16-NationalDefenseLaw.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="361">
                 <caret line="174" column="6" lean-forward="true" selection-start-line="174" selection-start-column="6" selection-end-line="174" selection-end-column="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-12-15-LawOnThePrevention.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="495">
+                <caret line="192" column="19" selection-start-line="192" selection-start-column="19" selection-end-line="192" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -211,6 +223,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-12-18-PropertyLaw.md" />
         <option value="$PROJECT_DIR$/_posts/2019-12-17-LawonIndividualProprietorshipEnterprises.md" />
         <option value="$PROJECT_DIR$/_posts/2019-12-16-NationalDefenseLaw.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-12-15-LawOnThePrevention.md" />
       </list>
     </option>
   </component>
@@ -293,12 +306,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554473698191</updated>
       <workItem from="1554473699550" duration="25527000" />
-      <workItem from="1554559430064" duration="2418000" />
+      <workItem from="1554559430064" duration="3290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27945000" />
+    <option name="totallyTimeSpent" value="28817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -582,6 +595,16 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="361">
             <caret line="174" column="6" lean-forward="true" selection-start-line="174" selection-start-column="6" selection-end-line="174" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-12-15-LawOnThePrevention.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="495">
+            <caret line="192" column="19" selection-start-line="192" selection-start-column="19" selection-end-line="192" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>
