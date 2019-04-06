@@ -51,7 +51,7 @@
         <counts>
           <entry key="gitignore" value="6" />
           <entry key="html" value="55" />
-          <entry key="md" value="6062" />
+          <entry key="md" value="6071" />
           <entry key="styl" value="8" />
           <entry key="yml" value="83" />
         </counts>
@@ -59,7 +59,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="55" />
-          <entry key="Markdown" value="6062" />
+          <entry key="Markdown" value="6071" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Stylus" value="8" />
           <entry key="YAML" value="83" />
@@ -97,8 +97,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-18-PropertyLaw.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="2319">
-                <caret line="591" column="19" selection-start-line="591" selection-start-column="19" selection-end-line="591" selection-end-column="19" />
+              <first_editor>
+                <caret selection-end-line="14" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -157,8 +157,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-13-StatePartnershipLaw.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="336">
-                <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <first_editor>
+                <caret selection-end-line="14" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -169,8 +169,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-13-LawonUrbanRealEstateAdministration.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="312">
-                <caret line="13" column="89" selection-start-line="13" selection-start-column="89" selection-end-line="13" selection-end-column="89" />
+              <first_editor relative-caret-position="144">
+                <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               </first_editor>
               <second_editor />
             </state>
@@ -322,12 +322,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554473698191</updated>
       <workItem from="1554473699550" duration="25527000" />
-      <workItem from="1554559430064" duration="5133000" />
+      <workItem from="1554559430064" duration="5273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30660000" />
+    <option name="totallyTimeSpent" value="30800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -586,16 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-12-18-PropertyLaw.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="2319">
-            <caret line="591" column="19" selection-start-line="591" selection-start-column="19" selection-end-line="591" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-12-17-LawonIndividualProprietorshipEnterprises.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -626,16 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-12-13-StatePartnershipLaw.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="336">
-            <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-12-14-NationalDefenseMobilizationLaw.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -646,11 +626,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-12-18-PropertyLaw.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="14" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-12-13-StatePartnershipLaw.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="14" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-12-13-LawonUrbanRealEstateAdministration.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="312">
-            <caret line="13" column="89" selection-start-line="13" selection-start-column="89" selection-end-line="13" selection-end-column="89" />
+          <first_editor relative-caret-position="144">
+            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           </first_editor>
           <second_editor />
         </state>
