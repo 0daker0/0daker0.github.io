@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05db4eab-2b95-4091-afae-e0c339f59653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-13-LawonUrbanRealEstateAdministration.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-13-StatePartnershipLaw.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-13-LawonUrbanRealEstateAdministration.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-13-LawonUrbanRealEstateAdministration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-13-StatePartnershipLaw.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-13-StatePartnershipLaw.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
         <counts>
           <entry key="gitignore" value="6" />
           <entry key="html" value="55" />
-          <entry key="md" value="6060" />
+          <entry key="md" value="6062" />
           <entry key="styl" value="8" />
           <entry key="yml" value="83" />
         </counts>
@@ -60,7 +59,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="55" />
-          <entry key="Markdown" value="6060" />
+          <entry key="Markdown" value="6062" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Stylus" value="8" />
           <entry key="YAML" value="83" />
@@ -146,7 +145,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-14-NationalDefenseMobilizationLaw.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="385">
+              <first_editor relative-caret-position="4296">
                 <caret line="179" column="16" lean-forward="true" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
               </first_editor>
               <second_editor />
@@ -158,8 +157,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-13-StatePartnershipLaw.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="144">
-                <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+              <first_editor relative-caret-position="336">
+                <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -170,8 +169,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-13-LawonUrbanRealEstateAdministration.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="495">
-                <caret line="176" column="16" selection-start-line="176" selection-start-column="16" selection-end-line="176" selection-end-column="16" />
+              <first_editor relative-caret-position="312">
+                <caret line="13" column="89" selection-start-line="13" selection-start-column="89" selection-end-line="13" selection-end-column="89" />
               </first_editor>
               <second_editor />
             </state>
@@ -239,6 +238,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-12-15-LawOnThePrevention.md" />
         <option value="$PROJECT_DIR$/_posts/2019-12-14-NationalDefenseMobilizationLaw.md" />
         <option value="$PROJECT_DIR$/_posts/2019-12-14-StatePartnershipLaw.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-12-13-StatePartnershipLaw.md" />
         <option value="$PROJECT_DIR$/_posts/2019-12-13-LawonUrbanRealEstateAdministration.md" />
       </list>
     </option>
@@ -322,12 +322,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554473698191</updated>
       <workItem from="1554473699550" duration="25527000" />
-      <workItem from="1554559430064" duration="5024000" />
+      <workItem from="1554559430064" duration="5133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30551000" />
+    <option name="totallyTimeSpent" value="30660000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -626,21 +626,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-12-14-NationalDefenseMobilizationLaw.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-12-13-StatePartnershipLaw.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="385">
-            <caret line="179" column="16" lean-forward="true" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
+          <first_editor relative-caret-position="336">
+            <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-12-13-StatePartnershipLaw.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-12-14-NationalDefenseMobilizationLaw.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="144">
-            <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <first_editor relative-caret-position="4296">
+            <caret line="179" column="16" lean-forward="true" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
@@ -649,8 +649,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-12-13-LawonUrbanRealEstateAdministration.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="495">
-            <caret line="176" column="16" selection-start-line="176" selection-start-column="16" selection-end-line="176" selection-end-column="16" />
+          <first_editor relative-caret-position="312">
+            <caret line="13" column="89" selection-start-line="13" selection-start-column="89" selection-end-line="13" selection-end-column="89" />
           </first_editor>
           <second_editor />
         </state>
