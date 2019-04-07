@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05db4eab-2b95-4091-afae-e0c339f59653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-11-21-JGLAW.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-11-22-XZLAW.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-11-23-PZLAW.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-11-24-CSLAW.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-11-25-QZLAW.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-11-26-TRLAW.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-11-27-CCMLAW.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-11-28-PXLAW.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-11-29-ZCKJCLAW.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-11-12-GZLAW.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-11-13-SLLAW.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-11-14-FJDFLAW.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-11-15-KJLAW.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-11-16-XTZLAW.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-11-17-HSZLAW.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-11-18-GLLAW.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-11-19-JZLAW.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-11-20-JSLAW.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,22 +83,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="13" />
+          <entry key="md" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="13" />
+          <entry key="Markdown" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="97" />
+          <entry key="md" value="148" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="97" />
+          <entry key="Markdown" value="148" />
         </counts>
       </usages-collector>
     </session>
@@ -106,138 +106,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-11-30-ZTLAW.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="212">
-                <caret line="167" column="16" selection-start-line="167" selection-start-column="16" selection-end-line="167" selection-end-column="16" />
-                <folding>
-                  <element signature="e#596#8409#0" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-11-29-ZCKJCLAW.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="728">
-                <caret line="115" column="16" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
-                <folding>
-                  <element signature="e#1088#4559#0" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-11-28-PXLAW.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="212">
-                <caret line="403" column="17" selection-start-line="403" selection-start-column="17" selection-end-line="403" selection-end-column="17" />
-                <folding>
-                  <element signature="e#820#22698#0" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-11-27-CCMLAW.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="196">
-                <caret line="222" column="16" selection-start-line="222" selection-start-column="16" selection-end-line="222" selection-end-column="16" />
-                <folding>
-                  <element signature="e#775#12288#0" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-11-26-TRLAW.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="650">
-                <caret line="229" column="16" selection-start-line="229" selection-start-column="16" selection-end-line="229" selection-end-column="16" />
-                <folding>
-                  <element signature="e#431#14986#0" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-11-25-QZLAW.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="650">
-                <caret line="220" column="16" selection-start-line="220" selection-start-column="16" selection-end-line="220" selection-end-column="16" />
-                <folding>
-                  <element signature="e#477#9102#0" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-11-24-CSLAW.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="109">
-                <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-                <folding>
-                  <element signature="e#591#12473#0" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-11-23-PZLAW.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="196">
-                <caret line="122" column="16" selection-start-line="122" selection-start-column="16" selection-end-line="122" selection-end-column="16" />
-                <folding>
-                  <element signature="e#581#5721#0" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-11-22-XZLAW.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="262">
-                <caret line="85" column="7" lean-forward="true" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-11-21-JGLAW.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -245,6 +113,135 @@
                 <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
                 <folding>
                   <element signature="e#543#5458#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-11-20-JSLAW.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="237">
+                <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+                <folding>
+                  <element signature="e#516#4934#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-11-19-JZLAW.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="456">
+                <caret line="201" column="16" selection-start-line="201" selection-start-column="16" selection-end-line="201" selection-end-column="16" />
+                <folding>
+                  <element signature="e#558#9349#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-11-18-GLLAW.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="213">
+                <caret line="214" column="100" selection-start-line="214" selection-start-column="100" selection-end-line="214" selection-end-column="100" />
+                <folding>
+                  <element signature="e#484#10364#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-11-17-HSZLAW.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="264">
+                <caret line="86" column="11" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="11" />
+                <folding>
+                  <element signature="e#492#2862#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-11-16-XTZLAW.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="196">
+                <caret line="181" lean-forward="true" selection-start-line="181" selection-end-line="181" />
+                <folding>
+                  <element signature="e#546#7263#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-11-15-KJLAW.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="132">
+                <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-11-14-FJDFLAW.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="181">
+                <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+                <folding>
+                  <element signature="e#688#4678#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-11-13-SLLAW.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="144">
+                <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-11-12-GZLAW.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="288">
+                <caret line="126" column="16" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
+                <folding>
+                  <element signature="e#679#6106#0" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -271,15 +268,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/_posts/2015-01-07-constitution.md" />
-        <option value="$PROJECT_DIR$/_posts/2010-01-07-constitution.md" />
-        <option value="$PROJECT_DIR$/_posts/2020-01-07-constitution.md" />
-        <option value="$PROJECT_DIR$/category/中国.html" />
-        <option value="$PROJECT_DIR$/_posts/2019-12-31-administrativelaw.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-12-30-civillaw.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-12-29-commerciallaw.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/menu-search.html" />
         <option value="$PROJECT_DIR$/tags.html" />
         <option value="$PROJECT_DIR$/_posts/2019-12-27-LaborLaw.md" />
@@ -322,6 +310,15 @@
         <option value="$PROJECT_DIR$/_posts/2019-11-23-PZLAW.md" />
         <option value="$PROJECT_DIR$/_posts/2019-11-22-XZLAW.md" />
         <option value="$PROJECT_DIR$/_posts/2019-11-22-JGLAW.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-20-JSLAW.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-19-JZLAW.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-18-GLLAW.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-17-HSZLAW.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-16-XTZLAW.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-15-KJLAW.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-14-FJDFLAW.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-13-SLLAW.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-12-GZLAW.md" />
       </list>
     </option>
   </component>
@@ -406,12 +403,12 @@
       <updated>1554473698191</updated>
       <workItem from="1554473699550" duration="25527000" />
       <workItem from="1554559430064" duration="9112000" />
-      <workItem from="1554631664396" duration="4313000" />
+      <workItem from="1554631664396" duration="8400000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38952000" />
+    <option name="totallyTimeSpent" value="43039000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="-11" width="1327" height="780" extended-state="6" />
@@ -459,74 +456,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styl/_header.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="74" lean-forward="true" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-01-07-constitution.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="168">
-            <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/category/中国.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="67" lean-forward="true" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-12-31-administrativelaw.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="750">
-            <caret line="277" lean-forward="true" selection-start-line="277" selection-end-line="277" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-12-29-commerciallaw.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="360">
-            <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3898" selection-start-column="3898" selection-end-column="3898" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tags.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="32" column="37" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="32" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/menu-search.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -974,6 +903,117 @@
             <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
             <folding>
               <element signature="e#543#5458#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-20-JSLAW.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="237">
+            <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+            <folding>
+              <element signature="e#516#4934#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-19-JZLAW.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="456">
+            <caret line="201" column="16" selection-start-line="201" selection-start-column="16" selection-end-line="201" selection-end-column="16" />
+            <folding>
+              <element signature="e#558#9349#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-18-GLLAW.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="213">
+            <caret line="214" column="100" selection-start-line="214" selection-start-column="100" selection-end-line="214" selection-end-column="100" />
+            <folding>
+              <element signature="e#484#10364#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-17-HSZLAW.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="264">
+            <caret line="86" column="11" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="11" />
+            <folding>
+              <element signature="e#492#2862#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-16-XTZLAW.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="196">
+            <caret line="181" lean-forward="true" selection-start-line="181" selection-end-line="181" />
+            <folding>
+              <element signature="e#546#7263#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-15-KJLAW.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="132">
+            <caret line="72" column="8" selection-start-line="72" selection-start-column="8" selection-end-line="72" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-14-FJDFLAW.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="181">
+            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <folding>
+              <element signature="e#688#4678#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-13-SLLAW.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="144">
+            <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-12-GZLAW.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="288">
+            <caret line="126" column="16" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
+            <folding>
+              <element signature="e#679#6106#0" />
             </folding>
           </first_editor>
           <second_editor />
