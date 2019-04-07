@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05db4eab-2b95-4091-afae-e0c339f59653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-04-MarineEnvironmentalProtectionLaw.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-05-LawOfSoilAndWaterConservation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-06-SurveyingAndMappingLaw.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-07-NuclearSafetyAct.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-12-08-WaterLaw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-12-03-LawofthePeoplesRepublicofChinaonLandAdmi.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,26 +66,42 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-228404537">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-12-13-LawonUrbanRealEstateAdministration.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="408">
-                <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-12-EarthquakePreventionAndDisasterReductionMethod.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="408">
+              <first_editor relative-caret-position="520">
                 <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
               </first_editor>
               <second_editor />
@@ -101,7 +113,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-11-JuvenileProtectionLaw.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="385">
+              <first_editor relative-caret-position="4628">
                 <caret line="178" column="16" selection-start-line="178" selection-start-column="16" selection-end-line="178" selection-end-column="16" />
               </first_editor>
               <second_editor />
@@ -113,11 +125,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-10-LawForScienceAndTechnology.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="313">
-                <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-                <folding>
-                  <element signature="e#759#9606#0" />
-                </folding>
+              <first_editor relative-caret-position="624">
+                <caret line="24" selection-start-line="24" selection-end-line="24" />
               </first_editor>
               <second_editor />
             </state>
@@ -128,7 +137,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-09-ExclusiveLaw.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="385">
+              <first_editor relative-caret-position="754">
                 <caret line="185" column="16" selection-start-line="185" selection-start-column="16" selection-end-line="185" selection-end-column="16" />
                 <folding>
                   <element signature="e#868#10631#0" />
@@ -143,8 +152,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-08-WaterLaw.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="743">
-                <caret line="31" column="58" lean-forward="true" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+              <first_editor relative-caret-position="806">
+                <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
               </first_editor>
               <second_editor />
             </state>
@@ -155,8 +164,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-06-SurveyingAndMappingLaw.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="528">
-                <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+              <first_editor relative-caret-position="572">
+                <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
                 <folding>
                   <element signature="e#607#9766#0" />
                 </folding>
@@ -170,7 +179,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-05-LawOfSoilAndWaterConservation.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="648">
+              <first_editor relative-caret-position="702">
                 <caret line="153" column="16" selection-start-line="153" selection-start-column="16" selection-end-line="153" selection-end-column="16" />
                 <folding>
                   <element signature="e#641#8086#0" />
@@ -181,15 +190,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-04-MarineEnvironmentalProtectionLaw.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="720">
-                <caret line="233" column="16" selection-start-line="233" selection-start-column="16" selection-end-line="233" selection-end-column="16" />
-                <folding>
-                  <element signature="e#740#13190#0" />
-                </folding>
+              <first_editor relative-caret-position="52">
+                <caret line="2" column="15" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="15" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-12-03-LawofthePeoplesRepublicofChinaonLandAdmi.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="556">
+                <caret line="208" column="16" selection-start-line="208" selection-start-column="16" selection-end-line="208" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -200,7 +218,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-12-07-NuclearSafetyAct.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="624">
+              <first_editor relative-caret-position="676">
                 <caret line="221" column="16" selection-start-line="221" selection-start-column="16" selection-end-line="221" selection-end-column="16" />
                 <folding>
                   <element signature="e#757#14155#0" />
@@ -271,6 +289,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-12-06-SurveyingAndMappingLaw.md" />
         <option value="$PROJECT_DIR$/_posts/2019-12-05-LawOfSoilAndWaterConservation.md" />
         <option value="$PROJECT_DIR$/_posts/2019-12-04-MarineEnvironmentalProtectionLaw.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-12-03-LawofthePeoplesRepublicofChinaonLandAdmi.md" />
       </list>
     </option>
   </component>
@@ -296,25 +315,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="daker.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="daker.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="0daker0.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="0daker0.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="daker.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="daker.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="0daker0.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="0daker0.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -324,9 +342,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="D:\01-Doucment\03-code\00-mangotv\daker.github.io\_posts" />
     </key>
   </component>
@@ -354,23 +374,26 @@
       <updated>1554473698191</updated>
       <workItem from="1554473699550" duration="25527000" />
       <workItem from="1554559430064" duration="9112000" />
+      <workItem from="1554631664396" duration="1011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34639000" />
+    <option name="totallyTimeSpent" value="35650000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="40" y="-11" width="1327" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25603113" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -382,6 +405,8 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.35287732" />
       <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -680,8 +705,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-12-13-LawonUrbanRealEstateAdministration.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="408">
-            <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <first_editor relative-caret-position="442">
+            <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
@@ -690,7 +715,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-12-12-EarthquakePreventionAndDisasterReductionMethod.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="408">
+          <first_editor relative-caret-position="520">
             <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           </first_editor>
           <second_editor />
@@ -700,7 +725,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-12-11-JuvenileProtectionLaw.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="385">
+          <first_editor relative-caret-position="4628">
             <caret line="178" column="16" selection-start-line="178" selection-start-column="16" selection-end-line="178" selection-end-column="16" />
           </first_editor>
           <second_editor />
@@ -710,11 +735,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-12-10-LawForScienceAndTechnology.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="313">
-            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            <folding>
-              <element signature="e#759#9606#0" />
-            </folding>
+          <first_editor relative-caret-position="624">
+            <caret line="24" selection-start-line="24" selection-end-line="24" />
           </first_editor>
           <second_editor />
         </state>
@@ -723,7 +745,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-12-09-ExclusiveLaw.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="385">
+          <first_editor relative-caret-position="754">
             <caret line="185" column="16" selection-start-line="185" selection-start-column="16" selection-end-line="185" selection-end-column="16" />
             <folding>
               <element signature="e#868#10631#0" />
@@ -733,24 +755,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-12-07-NuclearSafetyAct.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="624">
-            <caret line="221" column="16" selection-start-line="221" selection-start-column="16" selection-end-line="221" selection-end-column="16" />
-            <folding>
-              <element signature="e#757#14155#0" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-12-08-WaterLaw.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="743">
-            <caret line="31" column="58" lean-forward="true" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+          <first_editor relative-caret-position="806">
+            <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
           </first_editor>
           <second_editor />
         </state>
@@ -759,8 +768,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-12-06-SurveyingAndMappingLaw.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="528">
-            <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+          <first_editor relative-caret-position="572">
+            <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
             <folding>
               <element signature="e#607#9766#0" />
             </folding>
@@ -772,7 +781,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-12-05-LawOfSoilAndWaterConservation.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="648">
+          <first_editor relative-caret-position="702">
             <caret line="153" column="16" selection-start-line="153" selection-start-column="16" selection-end-line="153" selection-end-column="16" />
             <folding>
               <element signature="e#641#8086#0" />
@@ -782,14 +791,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-12-07-NuclearSafetyAct.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="676">
+            <caret line="221" column="16" selection-start-line="221" selection-start-column="16" selection-end-line="221" selection-end-column="16" />
+            <folding>
+              <element signature="e#757#14155#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-12-04-MarineEnvironmentalProtectionLaw.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="720">
-            <caret line="233" column="16" selection-start-line="233" selection-start-column="16" selection-end-line="233" selection-end-column="16" />
-            <folding>
-              <element signature="e#740#13190#0" />
-            </folding>
+          <first_editor relative-caret-position="52">
+            <caret line="2" column="15" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-12-03-LawofthePeoplesRepublicofChinaonLandAdmi.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="556">
+            <caret line="208" column="16" selection-start-line="208" selection-start-column="16" selection-end-line="208" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
